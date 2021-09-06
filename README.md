@@ -1,2 +1,2 @@
 # WEB2021
-Predpetni projekat iz predmeta "Veb programiranje" 
+Predmetni projekat iz predmeta "Veb programiranje" 
